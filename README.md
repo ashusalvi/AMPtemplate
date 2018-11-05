@@ -1,0 +1,2 @@
+# AMPtemplate
+GitHub Pages
